@@ -2,5 +2,8 @@ test add
 test modify
 test modify2
 test modify3
+
+test rebase
+git
 test modify4
 test error git
