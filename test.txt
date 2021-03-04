@@ -3,7 +3,7 @@ test modify
 test modify2
 test modify3
 
-test rebase
+test rebase 测试我的rebase
 git aad
 test modify4
 test ccc7
