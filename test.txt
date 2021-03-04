@@ -4,6 +4,6 @@ test modify2
 test modify3
 
 test rebase
-git
+git aad
 test modify4
 test error git
