@@ -6,4 +6,6 @@ test modify3
 test rebase
 git aad
 test modify4
+
+jjjj rebase
 test error git
