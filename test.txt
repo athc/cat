@@ -10,3 +10,4 @@ test ccc7
 jjjj rebase
 test error git
 merge origin test
+rebase origin test
