@@ -59,6 +59,24 @@ Git 自带一个 `git config` 的工具来帮助设置控制 Git 外观和行为
 
 
 
+## git工作流程
+
+![image-20210303153405177](C:\Users\dujf\AppData\Roaming\Typora\typora-user-images\image-20210303153405177.png)
+
+### 基本概念
+
+* HEAD
+
+  `HEAD` 是当前分支引用的指针，它总是指向该分支上的最后一次提交。 这表示 `HEAD` 将是下一次提交的父结点。 通常，可以把 `HEAD` 看做你的上一次提交的快照。***可以简单理解为： HEAD 指向分支（branch），分支指向提交***
+
+* Index
+
+  Index（索引，或暂存区）是你预期的下一次提交
+
+* Workplace
+
+  
+
 ## git命令
 
 git help
